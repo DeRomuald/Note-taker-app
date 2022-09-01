@@ -17,7 +17,6 @@ Project is created with:
 - CSS
 - JavaScript
 - Express
-- Inquirer
 - Jest
 - UUID
 
